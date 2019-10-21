@@ -1,0 +1,49 @@
+body {
+    background: rgb(136, 6, 6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    color: white;
+}
+
+body p {
+    font-family: 'Poppins-LightItalic', sans-serif;
+}
+
+.main {
+    max-width: 600px;
+    text-align: center;
+    letter-spacing: 1px;
+    padding: 0 10vw;
+}
+
+.main button {
+    font-family: 'Poppins-LightItalic', sans-serif;
+    padding: 10px 25px;
+    border-radius: 5px;
+    letter-spacing: 1px;
+    font-weight: bold;
+    background: rgb(136, 6, 6);
+    border: 1px solid white;
+    color: white;
+}
+
+.main p {
+    margin: 10vh 0;
+}
+
+@font-face {
+   src: url("/fonts/Poppins-Regular.otf");
+   font-family: "Poppins-Regular" ;
+}
+
+ @font-face {
+    src: url("/fonts/Poppins-Thin.otf");
+    font-family: "Poppins-Thin" ;
+ }
+
+ @font-face {
+    src: url("/fonts/Poppins-LightItalic.otf");
+    font-family: "Poppins-LightItalic" ;
+ }
