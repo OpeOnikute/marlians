@@ -11,6 +11,10 @@ body p {
     font-family: 'Poppins-LightItalic', sans-serif;
 }
 
+body h1 {
+    font-family: 'San-Fransisco-MediumItalic', serif;
+}
+
 .main {
     max-width: 600px;
     text-align: center;
@@ -38,12 +42,17 @@ body p {
    font-family: "Poppins-Regular" ;
 }
 
- @font-face {
+@font-face {
     src: url("/fonts/Poppins-Thin.otf");
     font-family: "Poppins-Thin" ;
- }
+}
 
- @font-face {
+@font-face {
     src: url("/fonts/Poppins-LightItalic.otf");
     font-family: "Poppins-LightItalic" ;
- }
+}
+
+@font-face {
+    src: url("/fonts/SF-UI-Text-MediumItalic.otf");
+    font-family: "San-Fransisco-MediumItalic" ;
+}
