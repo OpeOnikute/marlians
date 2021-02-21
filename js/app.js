@@ -1,4 +1,6 @@
-const queue = ["Gbese.m4a", "Ayiiii.m4a", "Egbe x1.m4a", "Oteselebo.m4a", "Inside Life.m4a", "Egbe x3.m4a", "Gbe Body e (Female).m4a", "Kuronbe.m4a", "Marlians.m4a","GBE_BODY_E (male).m4a"];
+const queue = ["Gbese.m4a", "Ayiiii.m4a", "Egbe x1.m4a", "Oteselebo.m4a", "Inside Life.m4a", "Egbe x3.m4a", "Gbe Body e (Female).m4a", "Kuronbe.m4a", "Marlians.m4a","GBE_BODY_E (male).m4a", 
+    "gbogbo_wa_la_ma_je_bfast_f.m4a", "yeyu_f.m4a"];
+
 const interval = 30 * 1000; // 30 seconds
 let timer;
 
